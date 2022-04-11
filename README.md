@@ -13,7 +13,7 @@
 
 # 安装&升级
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+bash <(curl -Ls https://ghproxy.com/raw.githubusercontent.com/lingyia/x-ui/master/install.sh)
 ```
 
 ## 手动安装&升级
